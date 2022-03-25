@@ -1,6 +1,6 @@
 function dev1_laptop2 () {
 	// công việc 1
 
-
-
+	// todo 2
+`	// todo 3
 }
