@@ -1,5 +1,6 @@
-function dev2 () {
+function dev2_User1Add New () {
 
 //cong chien 2
+	//todo 2
 
 }
