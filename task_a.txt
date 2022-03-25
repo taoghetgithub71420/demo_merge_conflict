@@ -1,6 +1,7 @@
-function dev1_laptop2_k () {
+function dev1_laptop2_k_professional() {
 	// công việc 1
 	//todo22
+	// An dep trai
 }
 
 function user1_laptop2_AddNew() {
