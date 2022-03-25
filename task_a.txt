@@ -1,4 +1,4 @@
-function dev1 () {
+function dev1_main () {
 	// công việc 1
 
 
