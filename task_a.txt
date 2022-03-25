@@ -1,4 +1,4 @@
-function dev1_main () {
+function dev1_laptop2 () {
 	// công việc 1
 
 
