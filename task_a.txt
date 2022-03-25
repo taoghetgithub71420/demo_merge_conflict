@@ -8,4 +8,5 @@ function user1_laptop2_AddNew() {
 	//User1 add New
 	// todo2
 	//tototo
+	//gogogo
 }
