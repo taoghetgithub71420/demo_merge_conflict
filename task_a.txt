@@ -1,8 +1,6 @@
-function dev1_laptop2 () {
+function dev1_laptop2_k () {
 	// công việc 1
-
-
-
+	//todo22
 }
 
 function user1_laptop2_AddNew() {
