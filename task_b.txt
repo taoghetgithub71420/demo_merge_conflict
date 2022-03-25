@@ -3,3 +3,6 @@ function dev2 () {
 //cong chien 2
 
 }
+function user1() {
+	//togo
+}
