@@ -1,0 +1,3 @@
+function c_User1AddNew() {
+	//user1ToDo
+}
