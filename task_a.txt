@@ -1,0 +1,6 @@
+function dev1 () {
+	// công việc 1
+
+
+
+}
